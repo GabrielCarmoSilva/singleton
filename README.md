@@ -2,7 +2,7 @@
 
 Este projeto foi realizado para uma atividade da disciplina DCC078 - Aspectos Avançados em Engenharia de Software, que aborda o padrão de projeto Singleton. Nele, temos uma implementação para os Parâmetros da Casa de Eventos, garantindo que exista apenas uma instância única responsável por armazenar informações globais, como o nome da casa de eventos e o organizador.
 
-**Aluno**: Gabriel do Carmo Silva
+**Aluno**: Gabriel do Carmo Silva\
 **Matrícula**: 202065030C
 
 ---
