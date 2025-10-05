@@ -39,3 +39,5 @@ Principais pontos da implementação:
 
 ---
 ## 📄 Diagrama de classes
+<img width="1057" height="368" alt="image" src="https://github.com/user-attachments/assets/9ba5f3d7-47e5-4724-bd26-ddf4ac002be5" />
+
